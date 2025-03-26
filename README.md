@@ -1,4 +1,3 @@
-###########OPERATION 143##############
 # Purpose:
 The purpose of this application is to provide users with a convenient, containerized workflow for recording a TikTok Live session. 
 By leveraging Docker for encapsulation and x11docker for displaying GUI applications in a secure environment, where users may or may not wish to route their traffic via VPN or TOR if they wish for anonymity.  
