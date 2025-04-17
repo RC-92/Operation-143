@@ -1,10 +1,10 @@
-# Purpose:
-The purpose of this application is to provide users with a convenient, containerized workflow for recording a TikTok Live session. 
-By leveraging Docker for encapsulation and x11docker for displaying GUI applications in a secure environment, where users may or may not wish to route their traffic via VPN or TOR if they wish for anonymity.  
-This approach ensures minimal dependencies on the host system while maintaining flexibility and portability.
+ 🎥 Project: Operation_143
 
+**Operation_143** was created with the goal of automating the recording of TikTok Live videos from a specific content creator. 
+This individual frequently shares stories about life in **Singaporean prisons**, often referencing a particular **secret society** and repeatedly displaying a distinct **hand sign** — where the **first, fourth, and third fingers** are raised.
+I found these stories interesting, though the person was often drunk while sharing these stories
 
-
+---
 
 # Technologies Used
 ## Docker*
@@ -26,3 +26,5 @@ This approach ensures minimal dependencies on the host system while maintaining 
 ## All changed are to be documented here 
  - Inital Relelase: 20th January 2025
 
+# Pre-requsites
+- Any Linux distro based docker container
