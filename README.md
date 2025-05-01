@@ -1,4 +1,4 @@
- 🎥 Project: Operation_143
+ # Operation_143
 
 **Operation_143** was created with the goal of automating the recording of TikTok Live videos from a specific content creator. 
 This individual frequently shares stories about life in **Singaporean prisons**, often referencing a particular **secret society** and repeatedly displaying a distinct **hand sign** — where the **first, fourth, and third fingers** are raised.
