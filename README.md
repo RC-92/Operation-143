@@ -1,11 +1,7 @@
  # Operation_143
 
-**Operation_143** was created with the goal of automating the recording of TikTok Live videos from a specific content creator. 
-This individual frequently shares stories about life in **Singaporean prisons**, often referencing a particular **secret society** and repeatedly displaying a distinct **hand sign** — where the **first, fourth, and third fingers** are raised.
-I found these stories interesting, though the person was often drunk while sharing these stories
-
----
-
+# Purpose
+This tool allows the end user to record tiktok live broadcasts 
 # Technologies Used
 ## Docker*
 - Used to containerize the environment, ensuring that all dependencies (browser, recording tools, etc.) are installed and configured consistently.
